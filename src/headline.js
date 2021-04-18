@@ -19,11 +19,11 @@ class Headlines extends Component {
             <h1>
                 Scary Scenes
             </h1>
-            <ul>
-                {this.state.ufoData.map(index => <ul><h2 id="headlines" style={{textAlign: "left"}}>{index.webTitle}<br></br>
-                <img id="images" src={index.fields.thumbnail} alt="error loading"/></h2>
-                <p>*imagines summary*</p><a href={index.webUrl}>Read the full story</a></ul>)}
-            </ul>
+            <div>
+                {this.state.ufoData.map(index => <article><h2 id="headlines" key={index.id} style={{textAlign: "left"}}>{index.webTitle}</h2><br></br>
+                <img id="images" src={index.fields.thumbnail} alt="error loading"/>
+                <p>*imagines summary*</p><a href={index.webUrl}>Read the full story</a></article>)}    
+            </div>
         </div>
         )
     }
