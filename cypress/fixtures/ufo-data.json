@@ -1,0 +1,174 @@
+{
+    "response": {
+        "status": "ok",
+        "userTier": "developer",
+        "total": 1216,
+        "startIndex": 1,
+        "pageSize": 10,
+        "currentPage": 1,
+        "pages": 122,
+        "orderBy": "relevance",
+        "results": [
+            {
+                "id": "us-news/2021/mar/22/us-government-ufo-report-sightings",
+                "type": "article",
+                "sectionId": "us-news",
+                "sectionName": "US news",
+                "webPublicationDate": "2021-03-22T13:43:54Z",
+                "webTitle": "UFO report details ‘difficult to explain’ sightings, says US ex-intelligence director - MOCKED",
+                "webUrl": "https://www.theguardian.com/us-news/2021/mar/22/us-government-ufo-report-sightings",
+                "apiUrl": "https://content.guardianapis.com/us-news/2021/mar/22/us-government-ufo-report-sightings",
+                "fields": {
+                    "thumbnail": "https://media.guim.co.uk/7e3a053da7f7c365ee3913dcec8327cd3e23d29b/0_234_3504_2102/500.jpg"
+                },
+                "isHosted": false,
+                "pillarId": "pillar/news",
+                "pillarName": "News"
+            },
+            {
+                "id": "us-news/2021/apr/16/pentagon-ufos-leaked-photos-uap",
+                "type": "article",
+                "sectionId": "us-news",
+                "sectionName": "US news",
+                "webPublicationDate": "2021-04-16T15:41:54Z",
+                "webTitle": "Pentagon confirms leaked photos and video of UFOs are legitimate",
+                "webUrl": "https://www.theguardian.com/us-news/2021/apr/16/pentagon-ufos-leaked-photos-uap",
+                "apiUrl": "https://content.guardianapis.com/us-news/2021/apr/16/pentagon-ufos-leaked-photos-uap",
+                "fields": {
+                    "thumbnail": "https://media.guim.co.uk/65afdd845e6f926dfd479441ff46afedfed90418/0_434_4000_2400/500.jpg"
+                },
+                "isHosted": false,
+                "pillarId": "pillar/news",
+                "pillarName": "News"
+            },
+            {
+                "id": "us-news/2021/jan/13/cia-thousands-documents-ufos-cache",
+                "type": "article",
+                "sectionId": "us-news",
+                "sectionName": "US news",
+                "webPublicationDate": "2021-01-13T20:27:03Z",
+                "webTitle": "The truth is out there … perhaps: CIA releases thousands of UFO files",
+                "webUrl": "https://www.theguardian.com/us-news/2021/jan/13/cia-thousands-documents-ufos-cache",
+                "apiUrl": "https://content.guardianapis.com/us-news/2021/jan/13/cia-thousands-documents-ufos-cache",
+                "fields": {
+                    "thumbnail": "https://media.guim.co.uk/e627c4f29a86bb88eabc9cfe2231bd95a856437d/0_179_5126_3075/500.jpg"
+                },
+                "isHosted": false,
+                "pillarId": "pillar/news",
+                "pillarName": "News"
+            },
+            {
+                "id": "books/2021/mar/19/the-believer-by-sarah-krasnostein-review-the-faces-of-faith-from-religion-to-ufos",
+                "type": "article",
+                "sectionId": "books",
+                "sectionName": "Books",
+                "webPublicationDate": "2021-03-18T16:30:35Z",
+                "webTitle": "The Believer by Sarah Krasnostein review – the faces of faith, from religion to UFOs",
+                "webUrl": "https://www.theguardian.com/books/2021/mar/19/the-believer-by-sarah-krasnostein-review-the-faces-of-faith-from-religion-to-ufos",
+                "apiUrl": "https://content.guardianapis.com/books/2021/mar/19/the-believer-by-sarah-krasnostein-review-the-faces-of-faith-from-religion-to-ufos",
+                "fields": {
+                    "thumbnail": "https://media.guim.co.uk/969ff53d1c2dc32472b241a080bcc9834a496487/0_0_2500_1500/500.jpg"
+                },
+                "isHosted": false,
+                "pillarId": "pillar/arts",
+                "pillarName": "Arts"
+            },
+            {
+                "id": "books/2021/feb/26/from-devout-christianity-to-ufos-sarah-krasnostein-comes-to-grips-with-faith",
+                "type": "article",
+                "sectionId": "books",
+                "sectionName": "Books",
+                "webPublicationDate": "2021-02-25T16:30:31Z",
+                "webTitle": "From devout Christianity to UFOs: Sarah Krasnostein comes to grips with faith",
+                "webUrl": "https://www.theguardian.com/books/2021/feb/26/from-devout-christianity-to-ufos-sarah-krasnostein-comes-to-grips-with-faith",
+                "apiUrl": "https://content.guardianapis.com/books/2021/feb/26/from-devout-christianity-to-ufos-sarah-krasnostein-comes-to-grips-with-faith",
+                "fields": {
+                    "thumbnail": "https://media.guim.co.uk/8e13664dcd9faf516664e79a2bd8910f8352ede3/0_0_1200_720/500.jpg"
+                },
+                "isHosted": false,
+                "pillarId": "pillar/arts",
+                "pillarName": "Arts"
+            },
+            {
+                "id": "film/2020/oct/07/the-phenomenon-ufos-james-fox-documentary",
+                "type": "article",
+                "sectionId": "film",
+                "sectionName": "Film",
+                "webPublicationDate": "2020-10-07T20:34:03Z",
+                "webTitle": "'It’s not a question of belief': the film examining government UFO records",
+                "webUrl": "https://www.theguardian.com/film/2020/oct/07/the-phenomenon-ufos-james-fox-documentary",
+                "apiUrl": "https://content.guardianapis.com/film/2020/oct/07/the-phenomenon-ufos-james-fox-documentary",
+                "fields": {
+                    "thumbnail": "https://media.guim.co.uk/33a87174d7690c57657adb30d040d96a4949fefc/66_0_1670_1002/500.jpg"
+                },
+                "isHosted": false,
+                "pillarId": "pillar/arts",
+                "pillarName": "Arts"
+            },
+            {
+                "id": "tv-and-radio/2020/sep/15/star-of-bethlehem-spaceship-tom-delonges-new-career-ufo-expert-blink-182",
+                "type": "article",
+                "sectionId": "tv-and-radio",
+                "sectionName": "Television & radio",
+                "webPublicationDate": "2020-09-15T15:09:29Z",
+                "webTitle": "'People need to open their minds!' – Tom DeLonge on his new career as a UFO expert",
+                "webUrl": "https://www.theguardian.com/tv-and-radio/2020/sep/15/star-of-bethlehem-spaceship-tom-delonges-new-career-ufo-expert-blink-182",
+                "apiUrl": "https://content.guardianapis.com/tv-and-radio/2020/sep/15/star-of-bethlehem-spaceship-tom-delonges-new-career-ufo-expert-blink-182",
+                "fields": {
+                    "thumbnail": "https://media.guim.co.uk/aaa8c4e0b4dabc3dcc33867f48a9a5ab7acd8b81/0_0_4896_2938/500.jpg"
+                },
+                "isHosted": false,
+                "pillarId": "pillar/arts",
+                "pillarName": "Arts"
+            },
+            {
+                "id": "world/2020/apr/27/pentagon-releases-three-ufo-videos-taken-by-us-navy-pilots",
+                "type": "article",
+                "sectionId": "world",
+                "sectionName": "World news",
+                "webPublicationDate": "2020-04-28T15:46:29Z",
+                "webTitle": "Pentagon releases three UFO videos taken by US navy pilots",
+                "webUrl": "https://www.theguardian.com/world/2020/apr/27/pentagon-releases-three-ufo-videos-taken-by-us-navy-pilots",
+                "apiUrl": "https://content.guardianapis.com/world/2020/apr/27/pentagon-releases-three-ufo-videos-taken-by-us-navy-pilots",
+                "fields": {
+                    "thumbnail": "https://media.guim.co.uk/a7ab87e1f3ba4d13b429e3008d1fb95768cca5cb/60_0_1800_1080/500.jpg"
+                },
+                "isHosted": false,
+                "pillarId": "pillar/news",
+                "pillarName": "News"
+            },
+            {
+                "id": "us-news/2020/aug/15/us-department-defense-ufo-taskforce",
+                "type": "article",
+                "sectionId": "us-news",
+                "sectionName": "US news",
+                "webPublicationDate": "2020-08-15T12:48:57Z",
+                "webTitle": "US defense department creates taskforce to investigate UFOs",
+                "webUrl": "https://www.theguardian.com/us-news/2020/aug/15/us-department-defense-ufo-taskforce",
+                "apiUrl": "https://content.guardianapis.com/us-news/2020/aug/15/us-department-defense-ufo-taskforce",
+                "fields": {
+                    "thumbnail": "https://media.guim.co.uk/d5d3f483cf2a42f85391d516784315f1ea3eac19/87_0_3483_2091/500.jpg"
+                },
+                "isHosted": false,
+                "pillarId": "pillar/news",
+                "pillarName": "News"
+            },
+            {
+                "id": "environment/2020/apr/15/like-a-spiral-ufo-worlds-longest-animal-discovered-in-australian-waters",
+                "type": "article",
+                "sectionId": "environment",
+                "sectionName": "Environment",
+                "webPublicationDate": "2020-04-15T04:00:34Z",
+                "webTitle": "'Like a spiral UFO': world's longest animal discovered in Australian waters",
+                "webUrl": "https://www.theguardian.com/environment/2020/apr/15/like-a-spiral-ufo-worlds-longest-animal-discovered-in-australian-waters",
+                "apiUrl": "https://content.guardianapis.com/environment/2020/apr/15/like-a-spiral-ufo-worlds-longest-animal-discovered-in-australian-waters",
+                "fields": {
+                    "thumbnail": "https://media.guim.co.uk/b4852ef4a5e05165cd4a3c770b34e678f454ebf5/66_0_2388_1434/500.jpg"
+                },
+                "isHosted": false,
+                "pillarId": "pillar/news",
+                "pillarName": "News"
+            }
+        ]
+    }
+}
